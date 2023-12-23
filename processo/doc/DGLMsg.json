@@ -1,0 +1,9 @@
+{
+    "msg": "Processo executado pelo robô com sucesso.",
+    "dest_erro": "liderbot@aprtech.com.br, cleiton.paes@aprtech.com.br", 
+    "acentos": ["Não"],
+    "getnet_cnpj_cli" : "76.591.569/0001-30",
+    "getnet_estabelecimento": "11847816",
+    "rel_ext_bnc": "Relatório Extrato Bancário",
+    "banco_relatorio_bancario": "459"
+}
